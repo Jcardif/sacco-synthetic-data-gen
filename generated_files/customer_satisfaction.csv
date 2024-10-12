@@ -1,0 +1,1001 @@
+FeedbackID,CustomerID,Rating,Comment
+FB000001,CUST04819,3,Friendly staff
+FB000002,CUST03909,5,Great service
+FB000003,CUST01161,4,Will recommend to others
+FB000004,CUST00127,5,Excellent experience
+FB000005,CUST01717,4,Friendly staff
+FB000006,CUST04252,3,Very satisfied
+FB000007,CUST02556,4,Friendly staff
+FB000008,CUST04379,3,Long wait times
+FB000009,CUST02219,2,Great service
+FB000010,CUST02731,3,Great service
+FB000011,CUST03419,4,Friendly staff
+FB000012,CUST03112,4,Will recommend to others
+FB000013,CUST04321,5,Long wait times
+FB000014,CUST01656,5,Quick approval
+FB000015,CUST01227,4,Unhappy with the service
+FB000016,CUST00443,4,Excellent experience
+FB000017,CUST04320,5,Long wait times
+FB000018,CUST04872,4,Could be improved
+FB000019,CUST04522,2,Very satisfied
+FB000020,CUST02386,2,Great service
+FB000021,CUST04907,3,Quick approval
+FB000022,CUST03300,4,Very satisfied
+FB000023,CUST04813,4,Could be improved
+FB000024,CUST03948,5,Will recommend to others
+FB000025,CUST00870,5,Quick approval
+FB000026,CUST03746,5,Excellent experience
+FB000027,CUST02588,1,Great service
+FB000028,CUST01142,4,Very satisfied
+FB000029,CUST01572,5,Great service
+FB000030,CUST04157,4,Excellent experience
+FB000031,CUST04279,5,Will recommend to others
+FB000032,CUST00643,3,Great service
+FB000033,CUST00167,5,Very satisfied
+FB000034,CUST02156,5,Quick approval
+FB000035,CUST03708,5,Unhappy with the service
+FB000036,CUST01579,3,Will recommend to others
+FB000037,CUST03062,3,Quick approval
+FB000038,CUST02927,5,Long wait times
+FB000039,CUST04745,3,Need better communication
+FB000040,CUST02529,5,Excellent experience
+FB000041,CUST00803,3,Long wait times
+FB000042,CUST00874,4,Could be improved
+FB000043,CUST00380,3,Unhappy with the service
+FB000044,CUST04733,5,Unhappy with the service
+FB000045,CUST02269,3,Quick approval
+FB000046,CUST02988,4,Friendly staff
+FB000047,CUST01091,5,Could be improved
+FB000048,CUST03640,4,Will recommend to others
+FB000049,CUST04124,2,Very satisfied
+FB000050,CUST04792,4,Will recommend to others
+FB000051,CUST04326,5,Great service
+FB000052,CUST03425,5,Could be improved
+FB000053,CUST03882,4,Could be improved
+FB000054,CUST03359,2,Could be improved
+FB000055,CUST03457,4,Great service
+FB000056,CUST01871,3,Excellent experience
+FB000057,CUST00273,1,Need better communication
+FB000058,CUST00432,3,Will recommend to others
+FB000059,CUST04120,5,Will recommend to others
+FB000060,CUST04306,5,Could be improved
+FB000061,CUST03616,5,Friendly staff
+FB000062,CUST03155,3,Very satisfied
+FB000063,CUST04399,4,Excellent experience
+FB000064,CUST01258,3,Long wait times
+FB000065,CUST01808,5,Excellent experience
+FB000066,CUST02171,1,Excellent experience
+FB000067,CUST02798,4,Need better communication
+FB000068,CUST00529,4,Will recommend to others
+FB000069,CUST02994,1,Unhappy with the service
+FB000070,CUST04465,5,Unhappy with the service
+FB000071,CUST00882,4,Unhappy with the service
+FB000072,CUST00786,3,Great service
+FB000073,CUST04309,5,Friendly staff
+FB000074,CUST03414,5,Could be improved
+FB000075,CUST03198,4,Quick approval
+FB000076,CUST02394,4,Excellent experience
+FB000077,CUST03675,5,Could be improved
+FB000078,CUST04972,3,Unhappy with the service
+FB000079,CUST04821,2,Friendly staff
+FB000080,CUST02916,1,Need better communication
+FB000081,CUST01808,3,Long wait times
+FB000082,CUST03783,5,Great service
+FB000083,CUST00683,3,Quick approval
+FB000084,CUST03820,5,Will recommend to others
+FB000085,CUST03586,4,Will recommend to others
+FB000086,CUST04590,5,Need better communication
+FB000087,CUST03259,3,Will recommend to others
+FB000088,CUST04473,4,Long wait times
+FB000089,CUST01863,5,Will recommend to others
+FB000090,CUST01274,4,Need better communication
+FB000091,CUST03766,5,Need better communication
+FB000092,CUST03416,5,Will recommend to others
+FB000093,CUST03664,5,Will recommend to others
+FB000094,CUST02116,3,Unhappy with the service
+FB000095,CUST01110,5,Great service
+FB000096,CUST01384,5,Will recommend to others
+FB000097,CUST01398,5,Could be improved
+FB000098,CUST02329,4,Very satisfied
+FB000099,CUST03325,1,Will recommend to others
+FB000100,CUST03825,4,Will recommend to others
+FB000101,CUST02426,2,Long wait times
+FB000102,CUST03021,3,Unhappy with the service
+FB000103,CUST04352,5,Unhappy with the service
+FB000104,CUST04641,4,Need better communication
+FB000105,CUST01802,5,Unhappy with the service
+FB000106,CUST04558,2,Excellent experience
+FB000107,CUST04937,5,Friendly staff
+FB000108,CUST02005,4,Quick approval
+FB000109,CUST00717,5,Could be improved
+FB000110,CUST02173,5,Will recommend to others
+FB000111,CUST03418,5,Need better communication
+FB000112,CUST03369,4,Will recommend to others
+FB000113,CUST01998,4,Quick approval
+FB000114,CUST03570,5,Need better communication
+FB000115,CUST02586,4,Great service
+FB000116,CUST02949,3,Quick approval
+FB000117,CUST03028,4,Quick approval
+FB000118,CUST04827,4,Need better communication
+FB000119,CUST00265,5,Excellent experience
+FB000120,CUST01963,4,Excellent experience
+FB000121,CUST03385,3,Will recommend to others
+FB000122,CUST00785,3,Excellent experience
+FB000123,CUST02329,5,Friendly staff
+FB000124,CUST01066,4,Will recommend to others
+FB000125,CUST02046,5,Great service
+FB000126,CUST03977,5,Will recommend to others
+FB000127,CUST01738,4,Unhappy with the service
+FB000128,CUST04915,5,Will recommend to others
+FB000129,CUST02493,1,Long wait times
+FB000130,CUST00508,5,Unhappy with the service
+FB000131,CUST01573,4,Very satisfied
+FB000132,CUST00372,5,Friendly staff
+FB000133,CUST01745,5,Need better communication
+FB000134,CUST00591,4,Excellent experience
+FB000135,CUST02570,4,Very satisfied
+FB000136,CUST04008,4,Need better communication
+FB000137,CUST04368,5,Unhappy with the service
+FB000138,CUST02629,4,Great service
+FB000139,CUST00573,4,Unhappy with the service
+FB000140,CUST03101,3,Will recommend to others
+FB000141,CUST01861,5,Excellent experience
+FB000142,CUST02514,4,Great service
+FB000143,CUST01239,3,Friendly staff
+FB000144,CUST01855,4,Could be improved
+FB000145,CUST04597,3,Very satisfied
+FB000146,CUST02103,1,Excellent experience
+FB000147,CUST04581,4,Long wait times
+FB000148,CUST04441,3,Unhappy with the service
+FB000149,CUST01000,4,Long wait times
+FB000150,CUST00228,3,Need better communication
+FB000151,CUST04378,2,Will recommend to others
+FB000152,CUST03536,4,Great service
+FB000153,CUST00420,3,Great service
+FB000154,CUST02889,4,Long wait times
+FB000155,CUST00929,4,Excellent experience
+FB000156,CUST02288,5,Long wait times
+FB000157,CUST02944,5,Very satisfied
+FB000158,CUST03144,2,Friendly staff
+FB000159,CUST01763,4,Could be improved
+FB000160,CUST01406,3,Long wait times
+FB000161,CUST01326,5,Unhappy with the service
+FB000162,CUST00898,3,Unhappy with the service
+FB000163,CUST03481,4,Excellent experience
+FB000164,CUST01937,4,Very satisfied
+FB000165,CUST02320,2,Excellent experience
+FB000166,CUST01177,5,Will recommend to others
+FB000167,CUST01648,4,Long wait times
+FB000168,CUST03852,1,Could be improved
+FB000169,CUST02254,3,Quick approval
+FB000170,CUST03653,4,Long wait times
+FB000171,CUST03169,4,Great service
+FB000172,CUST03722,5,Friendly staff
+FB000173,CUST04046,4,Great service
+FB000174,CUST01786,2,Quick approval
+FB000175,CUST03029,4,Quick approval
+FB000176,CUST04594,3,Very satisfied
+FB000177,CUST02487,4,Need better communication
+FB000178,CUST00197,3,Friendly staff
+FB000179,CUST02233,5,Great service
+FB000180,CUST04285,5,Long wait times
+FB000181,CUST03542,5,Quick approval
+FB000182,CUST01256,1,Unhappy with the service
+FB000183,CUST02861,4,Could be improved
+FB000184,CUST02587,2,Need better communication
+FB000185,CUST03595,3,Need better communication
+FB000186,CUST00658,5,Could be improved
+FB000187,CUST03903,3,Need better communication
+FB000188,CUST02118,5,Quick approval
+FB000189,CUST02460,3,Friendly staff
+FB000190,CUST04080,4,Need better communication
+FB000191,CUST04644,4,Need better communication
+FB000192,CUST01514,3,Quick approval
+FB000193,CUST02441,3,Will recommend to others
+FB000194,CUST04935,4,Excellent experience
+FB000195,CUST04333,3,Great service
+FB000196,CUST01826,5,Excellent experience
+FB000197,CUST04159,5,Great service
+FB000198,CUST01832,3,Very satisfied
+FB000199,CUST02941,3,Will recommend to others
+FB000200,CUST04691,5,Could be improved
+FB000201,CUST04795,4,Quick approval
+FB000202,CUST01020,4,Unhappy with the service
+FB000203,CUST04395,4,Quick approval
+FB000204,CUST02147,2,Excellent experience
+FB000205,CUST00770,5,Quick approval
+FB000206,CUST03670,4,Will recommend to others
+FB000207,CUST00841,5,Could be improved
+FB000208,CUST00547,3,Could be improved
+FB000209,CUST03811,5,Unhappy with the service
+FB000210,CUST03476,1,Could be improved
+FB000211,CUST04702,5,Could be improved
+FB000212,CUST00436,5,Friendly staff
+FB000213,CUST02062,5,Very satisfied
+FB000214,CUST02708,3,Quick approval
+FB000215,CUST00796,4,Friendly staff
+FB000216,CUST01782,2,Unhappy with the service
+FB000217,CUST02254,4,Friendly staff
+FB000218,CUST03083,3,Unhappy with the service
+FB000219,CUST04230,5,Excellent experience
+FB000220,CUST04136,2,Long wait times
+FB000221,CUST03651,4,Quick approval
+FB000222,CUST03844,4,Could be improved
+FB000223,CUST03025,4,Will recommend to others
+FB000224,CUST02606,1,Unhappy with the service
+FB000225,CUST02212,5,Unhappy with the service
+FB000226,CUST03741,4,Very satisfied
+FB000227,CUST00005,4,Excellent experience
+FB000228,CUST03610,3,Excellent experience
+FB000229,CUST02349,5,Great service
+FB000230,CUST01235,5,Quick approval
+FB000231,CUST00106,3,Could be improved
+FB000232,CUST03581,5,Unhappy with the service
+FB000233,CUST01142,4,Friendly staff
+FB000234,CUST00776,1,Need better communication
+FB000235,CUST01551,5,Long wait times
+FB000236,CUST00835,4,Friendly staff
+FB000237,CUST04718,2,Very satisfied
+FB000238,CUST02930,5,Very satisfied
+FB000239,CUST01094,5,Friendly staff
+FB000240,CUST04573,5,Unhappy with the service
+FB000241,CUST04048,4,Very satisfied
+FB000242,CUST03828,5,Need better communication
+FB000243,CUST04171,4,Will recommend to others
+FB000244,CUST01849,4,Very satisfied
+FB000245,CUST00576,4,Unhappy with the service
+FB000246,CUST02246,5,Unhappy with the service
+FB000247,CUST01177,3,Great service
+FB000248,CUST03681,4,Could be improved
+FB000249,CUST03585,5,Quick approval
+FB000250,CUST03789,2,Very satisfied
+FB000251,CUST00306,4,Very satisfied
+FB000252,CUST04765,2,Quick approval
+FB000253,CUST01755,5,Unhappy with the service
+FB000254,CUST03109,5,Very satisfied
+FB000255,CUST04699,5,Could be improved
+FB000256,CUST01080,4,Will recommend to others
+FB000257,CUST02852,3,Unhappy with the service
+FB000258,CUST02544,5,Could be improved
+FB000259,CUST01636,4,Will recommend to others
+FB000260,CUST01839,4,Quick approval
+FB000261,CUST04166,5,Will recommend to others
+FB000262,CUST03896,4,Could be improved
+FB000263,CUST00393,4,Long wait times
+FB000264,CUST00010,3,Excellent experience
+FB000265,CUST03817,4,Will recommend to others
+FB000266,CUST00216,2,Need better communication
+FB000267,CUST03078,3,Will recommend to others
+FB000268,CUST02734,4,Great service
+FB000269,CUST04819,5,Need better communication
+FB000270,CUST04944,4,Excellent experience
+FB000271,CUST03736,3,Need better communication
+FB000272,CUST02019,4,Friendly staff
+FB000273,CUST02823,4,Quick approval
+FB000274,CUST00649,3,Quick approval
+FB000275,CUST02656,3,Need better communication
+FB000276,CUST01332,3,Could be improved
+FB000277,CUST00652,1,Quick approval
+FB000278,CUST04130,4,Friendly staff
+FB000279,CUST03629,3,Unhappy with the service
+FB000280,CUST03356,5,Unhappy with the service
+FB000281,CUST02530,5,Great service
+FB000282,CUST01974,5,Long wait times
+FB000283,CUST00502,3,Great service
+FB000284,CUST03022,3,Great service
+FB000285,CUST03342,3,Will recommend to others
+FB000286,CUST03268,3,Very satisfied
+FB000287,CUST01583,4,Great service
+FB000288,CUST03248,4,Need better communication
+FB000289,CUST03560,3,Long wait times
+FB000290,CUST03557,4,Need better communication
+FB000291,CUST00401,2,Very satisfied
+FB000292,CUST02141,4,Friendly staff
+FB000293,CUST00262,5,Will recommend to others
+FB000294,CUST00985,5,Will recommend to others
+FB000295,CUST03006,5,Will recommend to others
+FB000296,CUST03514,4,Friendly staff
+FB000297,CUST00234,4,Long wait times
+FB000298,CUST02581,5,Very satisfied
+FB000299,CUST02059,5,Will recommend to others
+FB000300,CUST03262,4,Friendly staff
+FB000301,CUST01926,2,Could be improved
+FB000302,CUST01137,5,Very satisfied
+FB000303,CUST04875,5,Could be improved
+FB000304,CUST02872,5,Need better communication
+FB000305,CUST01235,3,Long wait times
+FB000306,CUST01164,4,Quick approval
+FB000307,CUST04651,5,Unhappy with the service
+FB000308,CUST02740,3,Long wait times
+FB000309,CUST03435,5,Great service
+FB000310,CUST01810,2,Very satisfied
+FB000311,CUST04719,4,Very satisfied
+FB000312,CUST00540,5,Excellent experience
+FB000313,CUST01843,3,Quick approval
+FB000314,CUST03607,4,Need better communication
+FB000315,CUST01035,4,Friendly staff
+FB000316,CUST01906,5,Excellent experience
+FB000317,CUST04009,4,Friendly staff
+FB000318,CUST02546,4,Very satisfied
+FB000319,CUST00225,5,Unhappy with the service
+FB000320,CUST01960,4,Could be improved
+FB000321,CUST00577,1,Unhappy with the service
+FB000322,CUST00859,5,Long wait times
+FB000323,CUST01417,2,Quick approval
+FB000324,CUST00027,4,Friendly staff
+FB000325,CUST04798,4,Great service
+FB000326,CUST02311,4,Very satisfied
+FB000327,CUST04056,1,Very satisfied
+FB000328,CUST01826,4,Could be improved
+FB000329,CUST02899,4,Excellent experience
+FB000330,CUST00369,3,Will recommend to others
+FB000331,CUST01049,3,Will recommend to others
+FB000332,CUST02485,4,Quick approval
+FB000333,CUST01774,3,Long wait times
+FB000334,CUST04570,4,Unhappy with the service
+FB000335,CUST00218,2,Great service
+FB000336,CUST03040,4,Quick approval
+FB000337,CUST01449,5,Could be improved
+FB000338,CUST03578,1,Great service
+FB000339,CUST03604,4,Quick approval
+FB000340,CUST02077,5,Unhappy with the service
+FB000341,CUST03572,3,Quick approval
+FB000342,CUST00451,4,Great service
+FB000343,CUST01503,5,Excellent experience
+FB000344,CUST04715,2,Friendly staff
+FB000345,CUST02127,4,Great service
+FB000346,CUST04078,4,Excellent experience
+FB000347,CUST03930,4,Unhappy with the service
+FB000348,CUST04573,4,Long wait times
+FB000349,CUST02868,1,Very satisfied
+FB000350,CUST04237,2,Quick approval
+FB000351,CUST00732,4,Need better communication
+FB000352,CUST02265,2,Unhappy with the service
+FB000353,CUST02055,2,Excellent experience
+FB000354,CUST01576,5,Great service
+FB000355,CUST00316,4,Will recommend to others
+FB000356,CUST02394,4,Could be improved
+FB000357,CUST00922,3,Could be improved
+FB000358,CUST02680,4,Friendly staff
+FB000359,CUST04142,4,Great service
+FB000360,CUST01698,5,Will recommend to others
+FB000361,CUST00486,4,Very satisfied
+FB000362,CUST03235,4,Quick approval
+FB000363,CUST02966,5,Could be improved
+FB000364,CUST01828,4,Excellent experience
+FB000365,CUST02623,3,Excellent experience
+FB000366,CUST02187,5,Will recommend to others
+FB000367,CUST01058,5,Excellent experience
+FB000368,CUST03108,4,Could be improved
+FB000369,CUST03234,4,Long wait times
+FB000370,CUST03386,4,Could be improved
+FB000371,CUST03342,4,Excellent experience
+FB000372,CUST03005,4,Could be improved
+FB000373,CUST01899,5,Very satisfied
+FB000374,CUST01833,5,Unhappy with the service
+FB000375,CUST01655,5,Very satisfied
+FB000376,CUST02243,3,Could be improved
+FB000377,CUST03393,4,Will recommend to others
+FB000378,CUST04427,1,Very satisfied
+FB000379,CUST01968,5,Great service
+FB000380,CUST03888,3,Could be improved
+FB000381,CUST00481,4,Long wait times
+FB000382,CUST04588,2,Could be improved
+FB000383,CUST03782,5,Excellent experience
+FB000384,CUST01888,5,Friendly staff
+FB000385,CUST03271,5,Need better communication
+FB000386,CUST01161,4,Need better communication
+FB000387,CUST01392,4,Unhappy with the service
+FB000388,CUST00469,5,Will recommend to others
+FB000389,CUST00802,4,Could be improved
+FB000390,CUST01782,5,Friendly staff
+FB000391,CUST04944,5,Unhappy with the service
+FB000392,CUST02439,5,Very satisfied
+FB000393,CUST02220,5,Excellent experience
+FB000394,CUST00676,5,Great service
+FB000395,CUST03750,5,Very satisfied
+FB000396,CUST03370,5,Excellent experience
+FB000397,CUST01790,4,Excellent experience
+FB000398,CUST01050,3,Excellent experience
+FB000399,CUST03414,3,Quick approval
+FB000400,CUST02473,4,Excellent experience
+FB000401,CUST03125,1,Unhappy with the service
+FB000402,CUST02011,5,Great service
+FB000403,CUST03026,4,Very satisfied
+FB000404,CUST01197,5,Unhappy with the service
+FB000405,CUST02821,2,Friendly staff
+FB000406,CUST01487,3,Great service
+FB000407,CUST04864,4,Quick approval
+FB000408,CUST02342,5,Quick approval
+FB000409,CUST01611,5,Will recommend to others
+FB000410,CUST02217,1,Great service
+FB000411,CUST03042,1,Excellent experience
+FB000412,CUST01488,5,Unhappy with the service
+FB000413,CUST02627,4,Need better communication
+FB000414,CUST00784,3,Could be improved
+FB000415,CUST04095,5,Need better communication
+FB000416,CUST04080,3,Friendly staff
+FB000417,CUST03428,3,Long wait times
+FB000418,CUST02520,4,Long wait times
+FB000419,CUST02433,5,Excellent experience
+FB000420,CUST03703,5,Quick approval
+FB000421,CUST03410,3,Great service
+FB000422,CUST02948,2,Long wait times
+FB000423,CUST01896,5,Could be improved
+FB000424,CUST03471,5,Very satisfied
+FB000425,CUST04021,5,Unhappy with the service
+FB000426,CUST00151,5,Great service
+FB000427,CUST03520,4,Excellent experience
+FB000428,CUST02983,3,Need better communication
+FB000429,CUST04186,4,Great service
+FB000430,CUST04350,2,Excellent experience
+FB000431,CUST04713,1,Could be improved
+FB000432,CUST02894,4,Very satisfied
+FB000433,CUST03116,4,Will recommend to others
+FB000434,CUST03432,4,Could be improved
+FB000435,CUST04793,4,Excellent experience
+FB000436,CUST02209,4,Will recommend to others
+FB000437,CUST04500,4,Very satisfied
+FB000438,CUST00895,4,Unhappy with the service
+FB000439,CUST02984,5,Very satisfied
+FB000440,CUST00174,1,Will recommend to others
+FB000441,CUST01045,3,Need better communication
+FB000442,CUST04981,4,Need better communication
+FB000443,CUST04979,5,Excellent experience
+FB000444,CUST04353,4,Could be improved
+FB000445,CUST03025,5,Quick approval
+FB000446,CUST03658,3,Friendly staff
+FB000447,CUST03973,3,Unhappy with the service
+FB000448,CUST02076,4,Could be improved
+FB000449,CUST01202,5,Could be improved
+FB000450,CUST00677,5,Could be improved
+FB000451,CUST00368,5,Need better communication
+FB000452,CUST00212,3,Unhappy with the service
+FB000453,CUST00985,5,Will recommend to others
+FB000454,CUST01469,5,Very satisfied
+FB000455,CUST01711,4,Unhappy with the service
+FB000456,CUST03842,4,Very satisfied
+FB000457,CUST03254,4,Could be improved
+FB000458,CUST04607,4,Will recommend to others
+FB000459,CUST04097,5,Friendly staff
+FB000460,CUST01798,4,Excellent experience
+FB000461,CUST03984,5,Excellent experience
+FB000462,CUST02145,5,Long wait times
+FB000463,CUST00249,5,Unhappy with the service
+FB000464,CUST04592,5,Friendly staff
+FB000465,CUST00329,5,Friendly staff
+FB000466,CUST02153,5,Quick approval
+FB000467,CUST02605,5,Will recommend to others
+FB000468,CUST04533,1,Friendly staff
+FB000469,CUST00607,1,Could be improved
+FB000470,CUST01191,5,Friendly staff
+FB000471,CUST02408,3,Excellent experience
+FB000472,CUST00415,5,Could be improved
+FB000473,CUST01039,3,Will recommend to others
+FB000474,CUST02863,4,Unhappy with the service
+FB000475,CUST03192,5,Long wait times
+FB000476,CUST04090,5,Need better communication
+FB000477,CUST02919,1,Very satisfied
+FB000478,CUST04213,3,Very satisfied
+FB000479,CUST01550,5,Friendly staff
+FB000480,CUST03966,5,Friendly staff
+FB000481,CUST00776,4,Could be improved
+FB000482,CUST00331,4,Long wait times
+FB000483,CUST04022,3,Excellent experience
+FB000484,CUST00696,5,Will recommend to others
+FB000485,CUST00749,3,Could be improved
+FB000486,CUST03310,5,Will recommend to others
+FB000487,CUST00715,5,Quick approval
+FB000488,CUST02742,4,Very satisfied
+FB000489,CUST00740,1,Excellent experience
+FB000490,CUST02541,5,Need better communication
+FB000491,CUST02039,5,Great service
+FB000492,CUST01194,4,Will recommend to others
+FB000493,CUST03167,4,Friendly staff
+FB000494,CUST04209,3,Great service
+FB000495,CUST00917,4,Will recommend to others
+FB000496,CUST04893,4,Could be improved
+FB000497,CUST04606,4,Friendly staff
+FB000498,CUST04035,3,Unhappy with the service
+FB000499,CUST02230,5,Friendly staff
+FB000500,CUST04754,3,Excellent experience
+FB000501,CUST01753,5,Friendly staff
+FB000502,CUST02278,3,Excellent experience
+FB000503,CUST03628,4,Need better communication
+FB000504,CUST00111,1,Could be improved
+FB000505,CUST03782,4,Friendly staff
+FB000506,CUST02806,3,Very satisfied
+FB000507,CUST01257,3,Quick approval
+FB000508,CUST01168,4,Excellent experience
+FB000509,CUST01356,5,Unhappy with the service
+FB000510,CUST04132,5,Excellent experience
+FB000511,CUST04126,4,Friendly staff
+FB000512,CUST03838,1,Excellent experience
+FB000513,CUST04873,3,Unhappy with the service
+FB000514,CUST00691,4,Need better communication
+FB000515,CUST01309,5,Will recommend to others
+FB000516,CUST01796,3,Very satisfied
+FB000517,CUST02473,3,Could be improved
+FB000518,CUST02786,4,Unhappy with the service
+FB000519,CUST00231,4,Unhappy with the service
+FB000520,CUST03234,4,Could be improved
+FB000521,CUST02618,2,Quick approval
+FB000522,CUST02643,4,Will recommend to others
+FB000523,CUST03687,5,Great service
+FB000524,CUST04961,5,Friendly staff
+FB000525,CUST02248,5,Will recommend to others
+FB000526,CUST00773,2,Need better communication
+FB000527,CUST01311,2,Great service
+FB000528,CUST04699,5,Great service
+FB000529,CUST02662,5,Very satisfied
+FB000530,CUST01375,5,Need better communication
+FB000531,CUST02059,2,Could be improved
+FB000532,CUST03268,5,Need better communication
+FB000533,CUST01133,4,Quick approval
+FB000534,CUST01410,4,Excellent experience
+FB000535,CUST01333,4,Friendly staff
+FB000536,CUST02763,3,Could be improved
+FB000537,CUST02797,3,Excellent experience
+FB000538,CUST00954,2,Friendly staff
+FB000539,CUST04436,5,Great service
+FB000540,CUST02589,4,Friendly staff
+FB000541,CUST02429,5,Very satisfied
+FB000542,CUST02596,5,Very satisfied
+FB000543,CUST02569,4,Great service
+FB000544,CUST00751,5,Long wait times
+FB000545,CUST03755,5,Will recommend to others
+FB000546,CUST00274,4,Will recommend to others
+FB000547,CUST02703,3,Very satisfied
+FB000548,CUST01965,4,Will recommend to others
+FB000549,CUST01020,2,Need better communication
+FB000550,CUST01896,2,Excellent experience
+FB000551,CUST01156,1,Excellent experience
+FB000552,CUST02040,5,Quick approval
+FB000553,CUST03886,4,Will recommend to others
+FB000554,CUST04705,3,Need better communication
+FB000555,CUST00198,1,Will recommend to others
+FB000556,CUST03658,4,Will recommend to others
+FB000557,CUST04490,4,Great service
+FB000558,CUST02435,3,Friendly staff
+FB000559,CUST03947,5,Very satisfied
+FB000560,CUST03859,4,Friendly staff
+FB000561,CUST00752,4,Friendly staff
+FB000562,CUST03697,4,Unhappy with the service
+FB000563,CUST03451,3,Could be improved
+FB000564,CUST02917,4,Excellent experience
+FB000565,CUST04282,4,Could be improved
+FB000566,CUST00105,1,Great service
+FB000567,CUST04212,3,Unhappy with the service
+FB000568,CUST04871,5,Excellent experience
+FB000569,CUST01921,5,Friendly staff
+FB000570,CUST02084,4,Friendly staff
+FB000571,CUST04176,5,Quick approval
+FB000572,CUST00087,5,Friendly staff
+FB000573,CUST03499,4,Unhappy with the service
+FB000574,CUST01697,5,Need better communication
+FB000575,CUST01455,5,Very satisfied
+FB000576,CUST03858,4,Unhappy with the service
+FB000577,CUST00331,5,Unhappy with the service
+FB000578,CUST02316,5,Unhappy with the service
+FB000579,CUST04172,3,Will recommend to others
+FB000580,CUST03481,5,Unhappy with the service
+FB000581,CUST00084,5,Very satisfied
+FB000582,CUST00612,5,Could be improved
+FB000583,CUST01759,5,Excellent experience
+FB000584,CUST04450,5,Friendly staff
+FB000585,CUST01061,4,Very satisfied
+FB000586,CUST04913,3,Unhappy with the service
+FB000587,CUST01951,3,Friendly staff
+FB000588,CUST01356,4,Long wait times
+FB000589,CUST04983,4,Quick approval
+FB000590,CUST03287,5,Great service
+FB000591,CUST02538,3,Friendly staff
+FB000592,CUST04296,2,Unhappy with the service
+FB000593,CUST03378,3,Need better communication
+FB000594,CUST02064,4,Great service
+FB000595,CUST03662,3,Unhappy with the service
+FB000596,CUST03277,4,Excellent experience
+FB000597,CUST02820,5,Long wait times
+FB000598,CUST04821,5,Great service
+FB000599,CUST00859,4,Long wait times
+FB000600,CUST01137,4,Great service
+FB000601,CUST03388,4,Need better communication
+FB000602,CUST04576,4,Need better communication
+FB000603,CUST00977,5,Friendly staff
+FB000604,CUST03393,4,Excellent experience
+FB000605,CUST00379,4,Unhappy with the service
+FB000606,CUST04539,3,Quick approval
+FB000607,CUST04575,5,Great service
+FB000608,CUST04590,4,Will recommend to others
+FB000609,CUST02806,5,Excellent experience
+FB000610,CUST04923,5,Unhappy with the service
+FB000611,CUST04246,3,Great service
+FB000612,CUST00038,3,Very satisfied
+FB000613,CUST00564,3,Could be improved
+FB000614,CUST04832,4,Need better communication
+FB000615,CUST03826,5,Could be improved
+FB000616,CUST03110,4,Need better communication
+FB000617,CUST01641,4,Need better communication
+FB000618,CUST04911,4,Friendly staff
+FB000619,CUST04472,1,Need better communication
+FB000620,CUST02432,4,Quick approval
+FB000621,CUST01730,3,Unhappy with the service
+FB000622,CUST02318,5,Very satisfied
+FB000623,CUST03382,4,Very satisfied
+FB000624,CUST00756,3,Could be improved
+FB000625,CUST00458,4,Long wait times
+FB000626,CUST04441,4,Unhappy with the service
+FB000627,CUST01986,5,Great service
+FB000628,CUST01349,3,Need better communication
+FB000629,CUST04090,5,Great service
+FB000630,CUST02949,4,Need better communication
+FB000631,CUST03097,3,Very satisfied
+FB000632,CUST00741,4,Could be improved
+FB000633,CUST04932,4,Unhappy with the service
+FB000634,CUST01764,2,Very satisfied
+FB000635,CUST01130,5,Could be improved
+FB000636,CUST01514,5,Will recommend to others
+FB000637,CUST01520,5,Need better communication
+FB000638,CUST03833,5,Great service
+FB000639,CUST01430,5,Long wait times
+FB000640,CUST01329,3,Quick approval
+FB000641,CUST02154,5,Long wait times
+FB000642,CUST00783,5,Great service
+FB000643,CUST02700,1,Could be improved
+FB000644,CUST01288,5,Excellent experience
+FB000645,CUST03933,4,Long wait times
+FB000646,CUST00246,5,Could be improved
+FB000647,CUST02989,1,Unhappy with the service
+FB000648,CUST03743,3,Very satisfied
+FB000649,CUST00798,2,Need better communication
+FB000650,CUST00730,3,Quick approval
+FB000651,CUST03858,5,Long wait times
+FB000652,CUST00978,5,Could be improved
+FB000653,CUST02064,5,Great service
+FB000654,CUST04752,5,Long wait times
+FB000655,CUST04991,4,Could be improved
+FB000656,CUST04291,4,Need better communication
+FB000657,CUST03715,3,Unhappy with the service
+FB000658,CUST00782,1,Need better communication
+FB000659,CUST02255,3,Friendly staff
+FB000660,CUST02325,5,Will recommend to others
+FB000661,CUST00240,5,Need better communication
+FB000662,CUST01020,5,Very satisfied
+FB000663,CUST03495,4,Long wait times
+FB000664,CUST03553,3,Long wait times
+FB000665,CUST00744,3,Great service
+FB000666,CUST04197,5,Long wait times
+FB000667,CUST04819,5,Excellent experience
+FB000668,CUST02937,5,Unhappy with the service
+FB000669,CUST04301,4,Unhappy with the service
+FB000670,CUST03113,4,Will recommend to others
+FB000671,CUST02697,4,Could be improved
+FB000672,CUST04394,4,Need better communication
+FB000673,CUST04316,5,Need better communication
+FB000674,CUST01592,2,Unhappy with the service
+FB000675,CUST04480,4,Unhappy with the service
+FB000676,CUST01511,1,Friendly staff
+FB000677,CUST02369,3,Long wait times
+FB000678,CUST00967,4,Friendly staff
+FB000679,CUST00053,5,Unhappy with the service
+FB000680,CUST01484,4,Will recommend to others
+FB000681,CUST00248,3,Unhappy with the service
+FB000682,CUST03888,5,Long wait times
+FB000683,CUST01011,4,Unhappy with the service
+FB000684,CUST04029,5,Long wait times
+FB000685,CUST01171,1,Long wait times
+FB000686,CUST04204,3,Great service
+FB000687,CUST03443,4,Will recommend to others
+FB000688,CUST03434,4,Great service
+FB000689,CUST01959,3,Will recommend to others
+FB000690,CUST04329,3,Could be improved
+FB000691,CUST04699,5,Need better communication
+FB000692,CUST00512,5,Excellent experience
+FB000693,CUST03565,5,Need better communication
+FB000694,CUST02904,4,Very satisfied
+FB000695,CUST02867,5,Very satisfied
+FB000696,CUST01971,4,Great service
+FB000697,CUST03334,1,Friendly staff
+FB000698,CUST02952,4,Great service
+FB000699,CUST01244,1,Unhappy with the service
+FB000700,CUST03926,4,Need better communication
+FB000701,CUST04171,5,Need better communication
+FB000702,CUST03889,3,Quick approval
+FB000703,CUST03243,5,Will recommend to others
+FB000704,CUST02618,5,Unhappy with the service
+FB000705,CUST01347,4,Great service
+FB000706,CUST04517,4,Very satisfied
+FB000707,CUST04177,5,Great service
+FB000708,CUST01940,4,Will recommend to others
+FB000709,CUST04842,5,Unhappy with the service
+FB000710,CUST00898,4,Excellent experience
+FB000711,CUST03445,3,Long wait times
+FB000712,CUST01753,4,Excellent experience
+FB000713,CUST05000,3,Great service
+FB000714,CUST00222,4,Very satisfied
+FB000715,CUST00638,5,Very satisfied
+FB000716,CUST03383,3,Unhappy with the service
+FB000717,CUST01071,4,Could be improved
+FB000718,CUST01469,1,Great service
+FB000719,CUST03258,4,Could be improved
+FB000720,CUST03883,2,Unhappy with the service
+FB000721,CUST01092,5,Friendly staff
+FB000722,CUST02825,4,Great service
+FB000723,CUST01643,3,Great service
+FB000724,CUST03305,1,Great service
+FB000725,CUST02174,5,Friendly staff
+FB000726,CUST03618,4,Will recommend to others
+FB000727,CUST00635,4,Need better communication
+FB000728,CUST01646,1,Unhappy with the service
+FB000729,CUST00255,5,Need better communication
+FB000730,CUST03290,4,Very satisfied
+FB000731,CUST03793,4,Will recommend to others
+FB000732,CUST01179,4,Will recommend to others
+FB000733,CUST00409,5,Unhappy with the service
+FB000734,CUST04540,4,Very satisfied
+FB000735,CUST04113,4,Need better communication
+FB000736,CUST00687,4,Quick approval
+FB000737,CUST01550,5,Friendly staff
+FB000738,CUST04570,5,Excellent experience
+FB000739,CUST02590,5,Will recommend to others
+FB000740,CUST00376,5,Very satisfied
+FB000741,CUST02843,4,Will recommend to others
+FB000742,CUST02761,3,Great service
+FB000743,CUST00517,5,Could be improved
+FB000744,CUST01628,3,Quick approval
+FB000745,CUST01904,5,Long wait times
+FB000746,CUST04424,4,Excellent experience
+FB000747,CUST01244,4,Unhappy with the service
+FB000748,CUST04372,4,Very satisfied
+FB000749,CUST01630,3,Friendly staff
+FB000750,CUST00177,3,Great service
+FB000751,CUST01476,5,Will recommend to others
+FB000752,CUST03093,4,Need better communication
+FB000753,CUST02115,4,Excellent experience
+FB000754,CUST00846,5,Friendly staff
+FB000755,CUST00816,2,Excellent experience
+FB000756,CUST00035,5,Excellent experience
+FB000757,CUST01724,2,Need better communication
+FB000758,CUST00276,4,Friendly staff
+FB000759,CUST02220,3,Need better communication
+FB000760,CUST03305,5,Excellent experience
+FB000761,CUST03962,4,Friendly staff
+FB000762,CUST03089,3,Friendly staff
+FB000763,CUST04124,4,Very satisfied
+FB000764,CUST01161,5,Friendly staff
+FB000765,CUST04741,3,Unhappy with the service
+FB000766,CUST04262,2,Excellent experience
+FB000767,CUST03602,3,Long wait times
+FB000768,CUST04884,5,Quick approval
+FB000769,CUST02313,4,Great service
+FB000770,CUST01426,3,Friendly staff
+FB000771,CUST01400,2,Long wait times
+FB000772,CUST03017,1,Could be improved
+FB000773,CUST04346,5,Could be improved
+FB000774,CUST02628,3,Friendly staff
+FB000775,CUST01956,5,Could be improved
+FB000776,CUST04946,4,Excellent experience
+FB000777,CUST00156,2,Will recommend to others
+FB000778,CUST02446,4,Excellent experience
+FB000779,CUST00302,3,Quick approval
+FB000780,CUST02236,1,Very satisfied
+FB000781,CUST02379,5,Excellent experience
+FB000782,CUST00198,4,Could be improved
+FB000783,CUST04960,4,Very satisfied
+FB000784,CUST00137,5,Unhappy with the service
+FB000785,CUST02165,4,Long wait times
+FB000786,CUST03663,4,Could be improved
+FB000787,CUST04999,4,Will recommend to others
+FB000788,CUST01065,5,Quick approval
+FB000789,CUST01273,3,Friendly staff
+FB000790,CUST03519,4,Very satisfied
+FB000791,CUST00511,5,Could be improved
+FB000792,CUST01531,3,Very satisfied
+FB000793,CUST01361,4,Will recommend to others
+FB000794,CUST02887,4,Great service
+FB000795,CUST02071,5,Quick approval
+FB000796,CUST01227,5,Could be improved
+FB000797,CUST03894,3,Need better communication
+FB000798,CUST00533,1,Long wait times
+FB000799,CUST04046,2,Need better communication
+FB000800,CUST00888,4,Need better communication
+FB000801,CUST04814,4,Very satisfied
+FB000802,CUST03878,3,Very satisfied
+FB000803,CUST01094,4,Great service
+FB000804,CUST03894,3,Will recommend to others
+FB000805,CUST04808,5,Need better communication
+FB000806,CUST00210,5,Excellent experience
+FB000807,CUST03381,1,Unhappy with the service
+FB000808,CUST00962,2,Long wait times
+FB000809,CUST00208,4,Need better communication
+FB000810,CUST00741,5,Could be improved
+FB000811,CUST01288,5,Very satisfied
+FB000812,CUST02271,4,Great service
+FB000813,CUST01275,4,Could be improved
+FB000814,CUST01385,2,Very satisfied
+FB000815,CUST00499,4,Very satisfied
+FB000816,CUST02723,5,Long wait times
+FB000817,CUST02175,4,Long wait times
+FB000818,CUST04274,2,Friendly staff
+FB000819,CUST01659,4,Great service
+FB000820,CUST04414,3,Great service
+FB000821,CUST03991,4,Long wait times
+FB000822,CUST01850,4,Very satisfied
+FB000823,CUST02443,5,Could be improved
+FB000824,CUST02594,5,Friendly staff
+FB000825,CUST00697,4,Will recommend to others
+FB000826,CUST00710,5,Long wait times
+FB000827,CUST02111,2,Will recommend to others
+FB000828,CUST02000,3,Will recommend to others
+FB000829,CUST03674,5,Excellent experience
+FB000830,CUST02509,4,Will recommend to others
+FB000831,CUST03238,5,Unhappy with the service
+FB000832,CUST02646,1,Could be improved
+FB000833,CUST00630,4,Need better communication
+FB000834,CUST01715,5,Could be improved
+FB000835,CUST00347,4,Very satisfied
+FB000836,CUST04859,4,Long wait times
+FB000837,CUST01260,5,Long wait times
+FB000838,CUST04650,4,Quick approval
+FB000839,CUST00003,3,Could be improved
+FB000840,CUST02688,5,Long wait times
+FB000841,CUST00708,3,Need better communication
+FB000842,CUST03745,4,Friendly staff
+FB000843,CUST00490,5,Unhappy with the service
+FB000844,CUST01996,3,Very satisfied
+FB000845,CUST04933,4,Very satisfied
+FB000846,CUST01728,5,Quick approval
+FB000847,CUST02678,3,Friendly staff
+FB000848,CUST02358,1,Long wait times
+FB000849,CUST03192,5,Will recommend to others
+FB000850,CUST00100,5,Could be improved
+FB000851,CUST03928,4,Long wait times
+FB000852,CUST01763,3,Quick approval
+FB000853,CUST04556,4,Excellent experience
+FB000854,CUST02628,5,Friendly staff
+FB000855,CUST03399,3,Quick approval
+FB000856,CUST03266,4,Long wait times
+FB000857,CUST01571,3,Quick approval
+FB000858,CUST00855,5,Unhappy with the service
+FB000859,CUST00236,3,Very satisfied
+FB000860,CUST01765,4,Friendly staff
+FB000861,CUST04245,5,Friendly staff
+FB000862,CUST03320,4,Could be improved
+FB000863,CUST00544,4,Quick approval
+FB000864,CUST01357,4,Quick approval
+FB000865,CUST02716,3,Could be improved
+FB000866,CUST02092,3,Friendly staff
+FB000867,CUST03739,4,Very satisfied
+FB000868,CUST01953,5,Great service
+FB000869,CUST01551,4,Unhappy with the service
+FB000870,CUST02862,5,Will recommend to others
+FB000871,CUST03561,4,Will recommend to others
+FB000872,CUST04541,4,Will recommend to others
+FB000873,CUST01484,4,Will recommend to others
+FB000874,CUST02468,2,Very satisfied
+FB000875,CUST04123,3,Unhappy with the service
+FB000876,CUST04043,1,Need better communication
+FB000877,CUST01017,4,Will recommend to others
+FB000878,CUST02658,3,Excellent experience
+FB000879,CUST04611,1,Excellent experience
+FB000880,CUST02097,4,Very satisfied
+FB000881,CUST01923,4,Very satisfied
+FB000882,CUST03634,1,Long wait times
+FB000883,CUST00019,5,Unhappy with the service
+FB000884,CUST01240,5,Great service
+FB000885,CUST01184,4,Very satisfied
+FB000886,CUST04157,4,Very satisfied
+FB000887,CUST04765,3,Excellent experience
+FB000888,CUST01752,4,Very satisfied
+FB000889,CUST03591,3,Friendly staff
+FB000890,CUST03654,5,Great service
+FB000891,CUST01075,5,Need better communication
+FB000892,CUST02851,4,Need better communication
+FB000893,CUST03056,5,Unhappy with the service
+FB000894,CUST04532,3,Will recommend to others
+FB000895,CUST02583,5,Will recommend to others
+FB000896,CUST01269,4,Will recommend to others
+FB000897,CUST01605,1,Will recommend to others
+FB000898,CUST03117,5,Need better communication
+FB000899,CUST04942,1,Need better communication
+FB000900,CUST00022,4,Quick approval
+FB000901,CUST03787,4,Could be improved
+FB000902,CUST02265,4,Great service
+FB000903,CUST01875,3,Will recommend to others
+FB000904,CUST04905,4,Quick approval
+FB000905,CUST00967,3,Very satisfied
+FB000906,CUST04960,5,Friendly staff
+FB000907,CUST02252,4,Could be improved
+FB000908,CUST04193,3,Could be improved
+FB000909,CUST01253,4,Could be improved
+FB000910,CUST01428,4,Could be improved
+FB000911,CUST01535,5,Very satisfied
+FB000912,CUST01689,4,Quick approval
+FB000913,CUST04063,5,Excellent experience
+FB000914,CUST03073,4,Quick approval
+FB000915,CUST04346,5,Great service
+FB000916,CUST03313,4,Could be improved
+FB000917,CUST01672,3,Friendly staff
+FB000918,CUST03189,4,Friendly staff
+FB000919,CUST01064,3,Unhappy with the service
+FB000920,CUST00075,5,Great service
+FB000921,CUST00691,4,Friendly staff
+FB000922,CUST02992,4,Very satisfied
+FB000923,CUST03732,4,Great service
+FB000924,CUST02896,4,Friendly staff
+FB000925,CUST00079,5,Unhappy with the service
+FB000926,CUST02776,3,Excellent experience
+FB000927,CUST02395,1,Need better communication
+FB000928,CUST00377,4,Very satisfied
+FB000929,CUST01623,5,Excellent experience
+FB000930,CUST00269,4,Could be improved
+FB000931,CUST03823,3,Great service
+FB000932,CUST02304,4,Quick approval
+FB000933,CUST04781,3,Excellent experience
+FB000934,CUST03969,5,Could be improved
+FB000935,CUST02265,4,Unhappy with the service
+FB000936,CUST00250,5,Quick approval
+FB000937,CUST03226,4,Friendly staff
+FB000938,CUST02878,4,Long wait times
+FB000939,CUST01933,5,Great service
+FB000940,CUST02108,4,Need better communication
+FB000941,CUST04559,3,Very satisfied
+FB000942,CUST02297,5,Very satisfied
+FB000943,CUST03539,3,Great service
+FB000944,CUST02941,3,Friendly staff
+FB000945,CUST01380,4,Very satisfied
+FB000946,CUST02926,3,Need better communication
+FB000947,CUST01778,4,Could be improved
+FB000948,CUST03562,3,Great service
+FB000949,CUST03431,4,Unhappy with the service
+FB000950,CUST04970,2,Very satisfied
+FB000951,CUST03488,5,Friendly staff
+FB000952,CUST00890,4,Great service
+FB000953,CUST02521,3,Need better communication
+FB000954,CUST02403,4,Could be improved
+FB000955,CUST01970,5,Long wait times
+FB000956,CUST01392,4,Friendly staff
+FB000957,CUST03481,5,Unhappy with the service
+FB000958,CUST02632,5,Quick approval
+FB000959,CUST03256,4,Great service
+FB000960,CUST01271,4,Will recommend to others
+FB000961,CUST01748,4,Excellent experience
+FB000962,CUST04884,3,Will recommend to others
+FB000963,CUST01376,5,Friendly staff
+FB000964,CUST02169,5,Unhappy with the service
+FB000965,CUST03104,3,Friendly staff
+FB000966,CUST03324,2,Long wait times
+FB000967,CUST03976,5,Great service
+FB000968,CUST03138,4,Excellent experience
+FB000969,CUST04174,5,Could be improved
+FB000970,CUST00140,5,Could be improved
+FB000971,CUST00231,4,Friendly staff
+FB000972,CUST01950,5,Great service
+FB000973,CUST01684,4,Will recommend to others
+FB000974,CUST03890,3,Quick approval
+FB000975,CUST02889,5,Quick approval
+FB000976,CUST00395,5,Excellent experience
+FB000977,CUST03053,3,Long wait times
+FB000978,CUST04139,5,Excellent experience
+FB000979,CUST03203,5,Quick approval
+FB000980,CUST04079,4,Quick approval
+FB000981,CUST02132,4,Need better communication
+FB000982,CUST01243,4,Excellent experience
+FB000983,CUST04660,5,Long wait times
+FB000984,CUST01443,3,Long wait times
+FB000985,CUST01001,3,Very satisfied
+FB000986,CUST02231,4,Quick approval
+FB000987,CUST01879,5,Very satisfied
+FB000988,CUST04857,5,Excellent experience
+FB000989,CUST00387,3,Unhappy with the service
+FB000990,CUST00947,4,Very satisfied
+FB000991,CUST03278,3,Great service
+FB000992,CUST04771,4,Friendly staff
+FB000993,CUST04993,4,Could be improved
+FB000994,CUST04301,3,Quick approval
+FB000995,CUST00253,3,Friendly staff
+FB000996,CUST01057,4,Quick approval
+FB000997,CUST00572,3,Will recommend to others
+FB000998,CUST03468,3,Need better communication
+FB000999,CUST00001,1,Long wait times
+FB001000,CUST04092,5,Quick approval

@@ -1,0 +1,12 @@
+LoanType,MinAmount,MaxAmount,MinTerm,MaxTerm,InterestRate,Sector
+Normal Loan,50000,1000000,12,60,0.1,General
+Jipange Loan,20000,500000,6,36,0.08,Personal Development
+Maziwa Loan,20000,500000,6,36,0.09,Agriculture
+Avocado Loan,50000,1000000,12,60,0.11,Agriculture
+Green Energy Loan,20000,500000,6,36,0.07,Renewable Energy
+Boda Boda Loan,50000,1000000,12,60,0.12,Transport
+Salary Advance,10000,100000,3,12,0.05,Emergency
+Special Advance,10000,100000,3,12,0.06,Emergency
+Seasonal Advance,20000,500000,6,24,0.08,Seasonal Business
+Emergency Loan,10000,50000,3,12,0.09,Emergency
+Additional Loan,10000,500000,6,36,0.1,Various
